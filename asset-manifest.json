@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Duel/static/css/main.e6c13ad2.css",
+    "main.js": "/Duel/static/js/main.01d27f8c.js",
+    "static/js/453.520e1735.chunk.js": "/Duel/static/js/453.520e1735.chunk.js",
+    "index.html": "/Duel/index.html",
+    "main.e6c13ad2.css.map": "/Duel/static/css/main.e6c13ad2.css.map",
+    "main.01d27f8c.js.map": "/Duel/static/js/main.01d27f8c.js.map",
+    "453.520e1735.chunk.js.map": "/Duel/static/js/453.520e1735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.01d27f8c.js"
+  ]
+}
